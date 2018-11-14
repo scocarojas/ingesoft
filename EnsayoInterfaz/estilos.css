@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans'); 
+
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Inconsolata', monospace;
+	letter-spacing: 1.5px; /*espacio entre letras*/
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+}
